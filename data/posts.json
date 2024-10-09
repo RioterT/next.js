@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "My first time with Components in Next.js",
+    "content": "This is interesting, maybe I'll have more projects in Nets.js "
+  },
+  {
+    "id": 2,
+    "title": "This is test blog2",
+    "content": "It's cool, that  Next.js provides built-in support for SEO optimizations..."
+  }
+]
